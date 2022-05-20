@@ -1,0 +1,62 @@
+body {
+    max-width: 90%;
+    margin: auto;
+}
+
+nav {
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+    float: right;
+}
+.loginpage{
+    padding: 30px;
+}
+.contactpage{
+    padding: 30px;
+}
+.registerpage {
+    padding: 30px;
+}
+
+.image {
+    float: left;
+    border-radius: 15%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.name {
+    font-size: 25px;
+}
+
+.aboutme {
+    margin-left: 65px;
+    font-size: 20px;
+}
+
+.mygoal {
+    margin-left: 65px;
+    font-size: 20px;
+}
+
+.education {
+    margin-left: 65px;
+    font-size: 20px;
+}
+
+.jobexp {
+    margin-left: 65px;
+    font-size: 20px;
+}
+
+.hobbies {
+    margin-left: 65px;
+    font-size: 20px;
+}
+
+.backtotop {
+    float: right;
+}
